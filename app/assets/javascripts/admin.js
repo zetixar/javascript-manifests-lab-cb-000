@@ -13,12 +13,10 @@
 //= require jquery
 //= require jquery_ujs
 //= require turbolinks
-//= require main
-//= require wrong_place_wrong_time
-//= require alert_maker
+//= require hello_world
+//= require doesn_nothing
 
-// I prefer to have the following structure: we have a common js file (main) and each manifest has its own folder
-
+// I prefer to have the following structure
 // In application.js:
 // require main
 // require_tree ./application
